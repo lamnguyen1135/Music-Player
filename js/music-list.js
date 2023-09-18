@@ -15,7 +15,7 @@ let songs = [
     name: "Wake Me Up",
     artist: "Avicii",
     img: "assets/media/Wakemeup.jpg",
-    src: "assets/songs/Wake-me-up.mp3",
+    src: "assets/songs/Wake-Me-Up.mp3",
   },
   {
     name: "Rock Ur World",
